@@ -1,7 +1,9 @@
 # animatedchat
 
 Animated Chat
-
+  <div class="row">
+    <img src="https://user-images.githubusercontent.com/69755039/144703570-fdd8f24e-6989-4986-a71b-95dffdc8f2be.gif" width="1080" height="850">
+    </div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
